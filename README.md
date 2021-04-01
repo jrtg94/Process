@@ -1,2 +1,2 @@
 # Process
-To C file to practice process OS concept
+Two C file to practice process OS concept
