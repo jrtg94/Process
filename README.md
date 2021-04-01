@@ -1,2 +1,2 @@
 # Process
-Two C file to practice process OS concept
+Two C file to practice process OS concept. These code are for educational purposes. 
